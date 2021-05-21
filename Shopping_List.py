@@ -1,3 +1,5 @@
+#First Python Project
+
 #Step 1: Make a list to hold onto our items.
 my_list=[]
 
